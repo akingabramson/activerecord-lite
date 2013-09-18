@@ -1,1 +1,3 @@
-THIS README INTENTIONALLY LEFT BLANK
+# Activerecord Lite
+
+A watered-down version of Rails' ActiveRecord ORM tool.
